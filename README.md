@@ -92,5 +92,4 @@ go run main.go
 
 \- Nama: Christian Putra Wara Paja
 
-\- NIM: 42630013sss
-
+\- NIM: 42630013
